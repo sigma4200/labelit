@@ -18,7 +18,7 @@ namespace labelit
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            label1.Text = "35";
+            label1.Text = "45";
         }
     }
 }
