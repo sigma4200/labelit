@@ -1,0 +1,8 @@
+G:\labelit\labelit\labelit\bin\Debug\labelit.exe
+G:\labelit\labelit\labelit\bin\Debug\labelit.pdb
+G:\labelit\labelit\labelit\obj\Debug\labelit.csprojResolveAssemblyReference.cache
+G:\labelit\labelit\labelit\obj\Debug\labelit.Form1.resources
+G:\labelit\labelit\labelit\obj\Debug\labelit.Properties.Resources.resources
+G:\labelit\labelit\labelit\obj\Debug\labelit.csproj.GenerateResource.Cache
+G:\labelit\labelit\labelit\obj\Debug\labelit.exe
+G:\labelit\labelit\labelit\obj\Debug\labelit.pdb
